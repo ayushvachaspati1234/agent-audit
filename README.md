@@ -1,4 +1,4 @@
-# AgentAudit — Landing Page
+# Orell — Landing Page
 
 Static landing page for an **AI agent audit & compliance** startup. No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "AgentAudit",
-  domain: "agentaudit.example.com",
-  contactEmail: "hello@agentaudit.example.com"
+  companyName: "Orell",
+  domain: "useorell.xyz",
+  contactEmail: "hello@useorell.xyz"
 };
 ```
 

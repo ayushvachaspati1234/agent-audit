@@ -4,9 +4,9 @@
 // or contact email is injected from here at load time.
 // ============================================================
 const BRAND = {
-  companyName: "AgentAudit",          // <- replace with real company name
-  domain: "agentaudit.example.com",   // <- replace with real domain
-  contactEmail: "hello@agentaudit.example.com"
+  companyName: "Orell",          // <- replace with real company name
+  domain: "useorell.xyz",   // <- replace with real domain
+  contactEmail: "hello@useorell.xyz"
 };
 
 // Inject brand values into all elements tagged with data attributes.
